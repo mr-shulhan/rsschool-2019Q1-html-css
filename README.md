@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Andrei Shulhan
+https://htmlacademy.ru/profile/id824903
